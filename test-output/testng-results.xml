@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="39814" started-at="2020-05-29T17:36:32 IST" finished-at="2020-05-29T17:37:12 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="39814" started-at="2020-05-29T17:36:32 IST" finished-at="2020-05-29T17:37:12 IST">
+      <class name="Academy.ValidateTitleContact">
+        <test-method status="PASS" signature="initialize()[pri:0, instance:Academy.ValidateTitleContact@1ebd319f]" name="initialize" is-config="true" duration-ms="37049" started-at="2020-05-29T17:36:32 IST" finished-at="2020-05-29T17:37:09 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method status="PASS" signature="basePageNavigation()[pri:0, instance:Academy.ValidateTitleContact@1ebd319f]" name="basePageNavigation" duration-ms="405" started-at="2020-05-29T17:37:10 IST" finished-at="2020-05-29T17:37:10 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- basePageNavigation -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:Academy.ValidateTitleContact@1ebd319f]" name="teardown" is-config="true" duration-ms="2017" started-at="2020-05-29T17:37:10 IST" finished-at="2020-05-29T17:37:12 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- Academy.ValidateTitleContact -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

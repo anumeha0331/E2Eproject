@@ -1,0 +1,8 @@
+18:11:06.940 [main] INFO  resources.base - Restricted user
+18:11:07.023 [main] INFO  resources.base - test data printed successfully
+18:11:17.815 [main] INFO  resources.base - driver is initialised
+18:11:25.694 [main] INFO  resources.base - driver Navigate to home page
+18:11:37.750 [main] INFO  resources.base - NON-Restricted user
+18:11:37.750 [main] INFO  resources.base - test data printed successfully
+19:28:29.900 [main] INFO  resources.base - driver is initialised
+19:29:06.694 [main] INFO  resources.base - driver Navigate to home page
